@@ -1,4 +1,3 @@
-
 ---
 name: web-search
 description: Performs private web searches using Startpage.com and returns clean summarized results with links.
