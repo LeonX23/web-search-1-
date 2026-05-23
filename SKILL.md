@@ -1,9 +1,8 @@
-___
+---
 name: web-search
 description: Startpage web search skill
-version: 1.0
-___
-
+version: 1.
+---
 # Web Search Skill
 
 # Web Search (Startpage)
