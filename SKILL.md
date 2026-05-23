@@ -1,8 +1,10 @@
 ---
 name: web-search
-description: Performs private web searches using Startpage.com and returns clean summarized results with links.
+description: Startpage web search skill
 version: 1.0
 ---
+
+# Web Search Skill
 
 # Web Search (Startpage)
 
